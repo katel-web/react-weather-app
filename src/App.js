@@ -6,7 +6,12 @@ function App() {
       <h1 className="App-h1">Weather app</h1>
       <p>
         This project was coded by Kate Lemass and is
-        <a href="">open-sourced on GitHub</a>
+        <a
+          href="https://github.com/katel-web/react-weather-app"
+          target="_blank"
+        >
+          open-sourced on GitHub
+        </a>
       </p>
     </div>
   );
