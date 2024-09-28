@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1 className="App-h1">Weather app</h1>
       <p>
-        This project was coded by Kate Lemass and is{" "}
+        This project was coded by Kate Lemass and is
         <a href="">open-sourced on GitHub</a>
       </p>
     </div>
